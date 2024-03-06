@@ -1,0 +1,238 @@
+<svg id="All_in_one" data-name="All in one" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="604" height="419" viewBox="0 0 604 419">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #c0feff;
+        stroke: #57b1fe;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 16.824px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #535050;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-9 {
+        text-anchor: middle;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: Arial;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #3d3c3c;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-5 {
+        font-style: italic;
+      }
+
+      .cls-7 {
+        fill: #534b4b;
+      }
+
+      .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8 {
+        fill: #2f2f2f;
+      }
+
+      .cls-9 {
+        font-size: 11px;
+        fill: #404040;
+        font-family: Tahoma;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-3.464" dy="2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2"/>
+      <feFlood result="flood" flood-opacity="0.44"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image width="604" height="419" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlwAAAGjCAYAAAD5MMvhAAAHe0lEQVR4nO3WMQHAQAzEsLT8Od+j8CZB8ORv2w4AgMwvLQBAy3ABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAMQMFwBAzHABAJTu7gFFCQdCvenH+QAAAABJRU5ErkJggg=="/>
+  <g class="cls-1">
+    <rect class="cls-2" x="13" y="97.594" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" x="58.375" y="97.594" width="45.406" height="33.281"/>
+    <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-2" x="13" y="131.719" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy_2-2" data-name="Rectangle 1 copy 2" class="cls-2" x="58.375" y="131.719" width="45.406" height="33.281"/>
+    <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-2" x="13" y="165.844" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy_3-2" data-name="Rectangle 1 copy 3" class="cls-2" x="58.375" y="165.844" width="45.406" height="33.281"/>
+    <rect id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-2" x="13" y="199.969" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy_4-2" data-name="Rectangle 1 copy 4" class="cls-2" x="58.375" y="199.969" width="45.406" height="33.281"/>
+    <rect id="Rectangle_1_copy_5" data-name="Rectangle 1 copy 5" class="cls-2" x="13" y="234.063" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy_5-2" data-name="Rectangle 1 copy 5" class="cls-2" x="58.375" y="234.063" width="45.406" height="33.281"/>
+    <rect id="Rectangle_1_copy_6" data-name="Rectangle 1 copy 6" class="cls-2" x="13" y="268.188" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy_6-2" data-name="Rectangle 1 copy 6" class="cls-2" x="58.375" y="268.188" width="45.406" height="33.281"/>
+    <rect id="Rectangle_1_copy_7" data-name="Rectangle 1 copy 7" class="cls-2" x="13" y="302.313" width="45.375" height="33.281"/>
+    <rect id="Rectangle_1_copy_7-2" data-name="Rectangle 1 copy 7" class="cls-2" x="58.375" y="302.313" width="45.406" height="33.281"/>
+  </g>
+  <text id="Input" class="cls-3" transform="translate(57.974 85.612) scale(0.833 0.832)"><tspan x="0">Input</tspan></text>
+  <text id="Split" class="cls-4" transform="translate(222.046 19.039) scale(0.833 0.832)"><tspan x="0">Split</tspan></text>
+  <text id="Apply_sum_" data-name="Apply (sum)" class="cls-4" transform="translate(382.787 34.85) scale(0.833 0.832)"><tspan x="0">Apply (sum)</tspan></text>
+  <text id="Combine" class="cls-4" transform="translate(547.691 138.856) scale(0.833 0.832)"><tspan x="0">Combine</tspan></text>
+  <text id="ID" class="cls-5" transform="translate(34.654 117.57) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+  <text id="Values" class="cls-5" transform="translate(80.294 117.57) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+  <g>
+    <text id="X" class="cls-6" transform="translate(35.487 153.352) scale(0.833 0.832)"><tspan x="0">X</tspan></text>
+    <text id="Y" class="cls-6" transform="translate(35.487 185.806) scale(0.833 0.832)"><tspan x="0">Y</tspan></text>
+    <text id="Z" class="cls-6" transform="translate(35.487 219.925) scale(0.833 0.832)"><tspan x="0">Z</tspan></text>
+  </g>
+  <g id="Group_2_copy" data-name="Group 2 copy">
+    <text id="X-2" data-name="X" class="cls-6" transform="translate(35.487 254.876) scale(0.833 0.832)"><tspan x="0">X</tspan></text>
+    <text id="Y-2" data-name="Y" class="cls-6" transform="translate(35.487 288.994) scale(0.833 0.832)"><tspan x="0">Y</tspan></text>
+    <text id="Z-2" data-name="Z" class="cls-6" transform="translate(35.487 323.113) scale(0.833 0.832)"><tspan x="0">Z</tspan></text>
+  </g>
+  <text id="_10" data-name="10" class="cls-6" transform="translate(80.461 153.352) scale(0.833 0.832)"><tspan x="0">10</tspan></text>
+  <text id="_20" data-name="20" class="cls-6" transform="translate(80.461 185.806) scale(0.833 0.832)"><tspan x="0">20</tspan></text>
+  <text id="_30" data-name="30" class="cls-6" transform="translate(80.461 219.925) scale(0.833 0.832)"><tspan x="0">30</tspan></text>
+  <text id="_40" data-name="40" class="cls-6" transform="translate(80.461 254.876) scale(0.833 0.832)"><tspan x="0">40</tspan></text>
+  <text id="_50" data-name="50" class="cls-6" transform="translate(80.461 288.994) scale(0.833 0.832)"><tspan x="0">50</tspan></text>
+  <text id="_60" data-name="60" class="cls-6" transform="translate(80.461 323.113) scale(0.833 0.832)"><tspan x="0">60</tspan></text>
+  <g>
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="29.375" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-2" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="29.375" width="45.407" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-3" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="63.469" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-4" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="63.469" width="45.407" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-5" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="96.594" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-6" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="96.594" width="45.407" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-2" data-name="ID" class="cls-5" transform="translate(197.893 50.165) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-2" data-name="Values" class="cls-5" transform="translate(241.868 50.165) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="X_copy" data-name="X copy" class="cls-6" transform="translate(197.893 85.947) scale(0.833 0.832)"><tspan x="0">X</tspan></text>
+      <text id="X-3" data-name="X" class="cls-6" transform="translate(198.726 118.402) scale(0.833 0.832)"><tspan x="0">X</tspan></text>
+      <text id="_10_copy" data-name="10 copy" class="cls-6" transform="translate(241.202 85.947) scale(0.833 0.832)"><tspan x="0">10</tspan></text>
+      <text id="_40-2" data-name="40" class="cls-6" transform="translate(242.867 118.402) scale(0.833 0.832)"><tspan x="0">40</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5_copy" data-name="Group 5 copy">
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8-7" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="165.844" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-8" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="165.844" width="45.407" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-9" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="199.969" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-10" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="199.969" width="45.407" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-11" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="234.063" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-12" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="234.063" width="45.407" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-3" data-name="ID" class="cls-5" transform="translate(197.893 186.639) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-3" data-name="Values" class="cls-5" transform="translate(242.867 186.639) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="Y-3" data-name="Y" class="cls-6" transform="translate(197.893 222.422) scale(0.833 0.832)"><tspan x="0">Y</tspan></text>
+      <text id="Y_copy" data-name="Y copy" class="cls-6" transform="translate(198.726 254.876) scale(0.833 0.832)"><tspan x="0">Y</tspan></text>
+      <text id="_20-2" data-name="20" class="cls-6" transform="translate(242.867 220.757) scale(0.833 0.832)"><tspan x="0">20</tspan></text>
+      <text id="_50-2" data-name="50" class="cls-6" transform="translate(242.867 254.876) scale(0.833 0.832)"><tspan x="0">50</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5_copy_2" data-name="Group 5 copy 2">
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8-13" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="301.469" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-14" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="301.469" width="45.407" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-15" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="334.594" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-16" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="334.594" width="45.407" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-17" data-name="Rectangle 1 copy 8" class="cls-2" x="175.406" y="368.719" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-18" data-name="Rectangle 1 copy 8" class="cls-2" x="220.781" y="368.719" width="45.407" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-4" data-name="ID" class="cls-5" transform="translate(197.893 322.281) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-4" data-name="Values" class="cls-5" transform="translate(242.867 322.281) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="Z-3" data-name="Z" class="cls-6" transform="translate(197.893 358.064) scale(0.833 0.832)"><tspan x="0">Z</tspan></text>
+      <text id="Z-4" data-name="Z" class="cls-6" transform="translate(198.726 390.518) scale(0.833 0.832)"><tspan x="0">Z</tspan></text>
+      <text id="_30-2" data-name="30" class="cls-6" transform="translate(241.202 358.064) scale(0.833 0.832)"><tspan x="0">30</tspan></text>
+      <text id="_60-2" data-name="60" class="cls-6" transform="translate(241.202 390.518) scale(0.833 0.832)"><tspan x="0">60</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5_copy_3" data-name="Group 5 copy 3">
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8-19" data-name="Rectangle 1 copy 8" class="cls-2" x="337.813" y="46" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-20" data-name="Rectangle 1 copy 8" class="cls-2" x="383.219" y="46" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-21" data-name="Rectangle 1 copy 8" class="cls-2" x="337.813" y="80.125" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-22" data-name="Rectangle 1 copy 8" class="cls-2" x="383.219" y="80.125" width="45.375" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-5" data-name="ID" class="cls-5" transform="translate(360.3 66.808) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-5" data-name="Values" class="cls-5" transform="translate(404.274 66.808) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="X_copy-2" data-name="X copy" class="cls-6" transform="translate(360.3 102.59) scale(0.833 0.832)"><tspan x="0">X</tspan></text>
+      <text id="_50-3" data-name="50" class="cls-6" transform="translate(403.608 102.59) scale(0.833 0.832)"><tspan x="0">50</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5_copy_4" data-name="Group 5 copy 4">
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8-23" data-name="Rectangle 1 copy 8" class="cls-2" x="337.813" y="183.313" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-24" data-name="Rectangle 1 copy 8" class="cls-2" x="383.219" y="183.313" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-25" data-name="Rectangle 1 copy 8" class="cls-2" x="337.813" y="217.438" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-26" data-name="Rectangle 1 copy 8" class="cls-2" x="383.219" y="217.438" width="45.375" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-6" data-name="ID" class="cls-5" transform="translate(360.3 204.114) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-6" data-name="Values" class="cls-5" transform="translate(404.274 204.114) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="Y-4" data-name="Y" class="cls-6" transform="translate(360.3 239.897) scale(0.833 0.832)"><tspan x="0">Y</tspan></text>
+      <text id="_70" data-name="70" class="cls-6" transform="translate(403.608 239.897) scale(0.833 0.832)"><tspan x="0">70</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5_copy_5" data-name="Group 5 copy 5">
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8-27" data-name="Rectangle 1 copy 8" class="cls-2" x="337.813" y="318.938" width="45.406" height="33.312"/>
+      <rect id="Rectangle_1_copy_8-28" data-name="Rectangle 1 copy 8" class="cls-2" x="383.219" y="318.938" width="45.375" height="33.312"/>
+      <rect id="Rectangle_1_copy_8-29" data-name="Rectangle 1 copy 8" class="cls-2" x="337.813" y="353.063" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-30" data-name="Rectangle 1 copy 8" class="cls-2" x="383.219" y="353.063" width="45.375" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-7" data-name="ID" class="cls-5" transform="translate(360.3 339.756) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-7" data-name="Values" class="cls-5" transform="translate(404.274 339.756) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="Z-5" data-name="Z" class="cls-6" transform="translate(360.3 375.539) scale(0.833 0.832)"><tspan x="0">Z</tspan></text>
+      <text id="_90" data-name="90" class="cls-6" transform="translate(403.608 375.539) scale(0.833 0.832)"><tspan x="0">90</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5_copy_6" data-name="Group 5 copy 6">
+    <g class="cls-1">
+      <rect id="Rectangle_1_copy_8-31" data-name="Rectangle 1 copy 8" class="cls-2" x="500.219" y="147.5" width="45.406" height="33.313"/>
+      <rect id="Rectangle_1_copy_8-32" data-name="Rectangle 1 copy 8" class="cls-2" x="545.625" y="147.5" width="45.375" height="33.313"/>
+      <rect id="Rectangle_1_copy_8-33" data-name="Rectangle 1 copy 8" class="cls-2" x="500.219" y="181.625" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-34" data-name="Rectangle 1 copy 8" class="cls-2" x="545.625" y="181.625" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-35" data-name="Rectangle 1 copy 8" class="cls-2" x="500.219" y="215.75" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_8-36" data-name="Rectangle 1 copy 8" class="cls-2" x="545.625" y="215.75" width="45.375" height="33.281"/>
+      <rect id="Rectangle_1_copy_9" data-name="Rectangle 1 copy 9" class="cls-2" x="500.219" y="249.875" width="45.406" height="33.281"/>
+      <rect id="Rectangle_1_copy_9-2" data-name="Rectangle 1 copy 9" class="cls-2" x="545.625" y="249.875" width="45.375" height="33.281"/>
+    </g>
+    <g>
+      <text id="ID-8" data-name="ID" class="cls-5" transform="translate(522.706 168.317) scale(0.833 0.832)"><tspan x="0">ID</tspan></text>
+      <text id="Values-8" data-name="Values" class="cls-5" transform="translate(567.68 168.317) scale(0.833 0.832)"><tspan x="0">Values</tspan></text>
+      <text id="X_copy-3" data-name="X copy" class="cls-6" transform="translate(522.706 204.1) scale(0.833 0.832)"><tspan x="0">X</tspan></text>
+      <text id="Y-5" data-name="Y" class="cls-6" transform="translate(523.539 236.554) scale(0.833 0.832)"><tspan x="0">Y</tspan></text>
+      <text id="Z-6" data-name="Z" class="cls-6" transform="translate(523.539 269.841) scale(0.833 0.832)"><tspan x="0">Z</tspan></text>
+      <text id="_50-4" data-name="50" class="cls-6" transform="translate(566.014 204.1) scale(0.833 0.832)"><tspan x="0">50</tspan></text>
+      <text id="_70-2" data-name="70" class="cls-6" transform="translate(565.182 236.554) scale(0.833 0.832)"><tspan x="0">70</tspan></text>
+      <text id="_90-2" data-name="90" class="cls-6" transform="translate(566.014 269.841) scale(0.833 0.832)"><tspan x="0">90</tspan></text>
+    </g>
+  </g>
+  <path class="cls-7" d="M109.611,216.6v-1.248h48.972l-4-2.5,12.493,3.12-12.493,3.121,4-2.5H109.611Z"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-7" d="M272.017,216.6v-1.248h48.972l-4-2.5,12.493,3.12-12.493,3.121,4-2.5H272.017Z"/>
+  <path id="Shape_1_copy_3" data-name="Shape 1 copy 3" class="cls-7" d="M272.017,80.122V78.874h48.972l-4-2.5L329.484,79.5l-12.493,3.121,4-2.5H272.017Z"/>
+  <path id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-7" d="M272.017,353.07v-1.248h48.972l-4-2.5,12.493,3.12-12.493,3.121,4-2.5H272.017Z"/>
+  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-7" d="M434.424,216.6v-1.248H483.4l-4-2.5,12.492,3.12L479.4,219.093l4-2.5H434.424Z"/>
+  <path id="Arrow" class="cls-7" d="M110.927,149.587l-0.966-.791,51.25-62.5L156.745,87.8l10.333-7.678-5.5,11.633,0.6-4.672Z"/>
+  <path id="Arrow_copy_2" data-name="Arrow copy 2" class="cls-7" d="M435.407,353.894l-0.972-.787,51.554-62.152-4.493,1.5,10.394-7.635-5.533,11.568,0.6-4.645Z"/>
+  <path id="Arrow_copy_3" data-name="Arrow copy 3" class="cls-7" d="M435.407,80.11l-0.972.787,51.554,62.153-4.493-1.5,10.394,7.634-5.533-11.567,0.6,4.645Z"/>
+  <path id="Arrow_copy" data-name="Arrow copy" class="cls-7" d="M110.594,284.828l-0.972.787,51.554,62.152-4.493-1.5,10.4,7.635-5.534-11.568,0.6,4.645Z"/>
+  <path class="cls-8" d="M515.283,412.242a5.122,5.122,0,0,1-2.037,2.041,5.541,5.541,0,0,1-5.484,0,5.135,5.135,0,0,1-2.042-2.041,5.513,5.513,0,0,1,.011-5.5,5.083,5.083,0,0,1,2.063-2.037,5.5,5.5,0,0,1,5.419,0,5.073,5.073,0,0,1,2.059,2.037A5.539,5.539,0,0,1,515.283,412.242Zm-0.8-5.042a4.24,4.24,0,0,0-1.719-1.7,4.582,4.582,0,0,0-4.516,0,4.264,4.264,0,0,0-1.719,1.7,4.58,4.58,0,0,0-.012,4.585,4.334,4.334,0,0,0,1.705,1.7,4.593,4.593,0,0,0,4.571,0,4.3,4.3,0,0,0,1.7-1.7A4.6,4.6,0,0,0,514.479,407.2Zm-3.988,4.639a2.089,2.089,0,0,0,1.914-1.469l1,0.348a3.143,3.143,0,0,1-2.912,2.177,3.375,3.375,0,0,1,0-6.73,3.05,3.05,0,0,1,2.643,1.586l-0.915.529a2.007,2.007,0,0,0-1.728-1.058A2.324,2.324,0,0,0,510.491,411.839Z"/>
+  <text id="w3resource.com" class="cls-9" x="559" y="412.75"><tspan x="559">w3resource.com</tspan></text>
+</svg>
